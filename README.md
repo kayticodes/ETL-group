@@ -1,5 +1,5 @@
 # ETL-group
-Enter - Transform - Load 
+Extract - Transform - Load 
 
 
 ## country codes.ipynb   note book==> contains cleaned country codes  dataframe.
