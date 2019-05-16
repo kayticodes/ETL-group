@@ -4,9 +4,13 @@ Summary: For this project we aimed to take a large music data base in the form o
 
 Description:
 The purpose of this project is to
-•Extract the data of trending music from various data-sources, 
+
+•Extract the data of trending music from various data-sources,
+
 •Collect the missing information using web-scraping & APIcalls.
+
 •Cleanse the data by adding / removing the raw attributes 
+
 •Load the final dataset to the SQL/No-SQL database for further analysis.
 
 Use-cases:The stored dataset can be used to analyze the trending musical numbers of recent pastacross the globe and identify the most popular genre, artist or the track. 
