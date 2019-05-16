@@ -4,7 +4,7 @@ Summary: For this project we aimed to take a large music data base in the form o
 
 
 Description:
-The purpose of this project is to
+The purpose of this project was to
 
 •Extract the data of trending music from various data-sources,
 
